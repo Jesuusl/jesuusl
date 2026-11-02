@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="banner.png" width="100%" alt="Jesus Lopez - Full Stack Developer"/>
+  <img src="./banner.png" width="100%" alt="Jesus Lopez - Full Stack Developer"/>
 
   <br/>
 
@@ -117,27 +117,39 @@ Sistema de gestión para restaurantes y bares.
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jesuusl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E53935&icon_color=E53935&text_color=C9C9C9&include_all_commits=true" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=Jesuusl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E53935&icon_color=E53935&text_color=C9C9C9"
+    alt="GitHub Statistics"
+  />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesuusl&layout=compact&hide_border=true&bg_color=0D1117&title_color=E53935&text_color=C9C9C9" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jesuusl&layout=compact&hide_border=true&bg_color=0D1117&title_color=E53935&text_color=C9C9C9"
+    alt="Top Languages"
+  />
 
   <br/><br/>
 
-  <img width="75%" src="https://streak-stats.demolab.com?user=Jesuusl&theme=dark&hide_border=true&background=0D1117&ring=E53935&fire=E53935&currStreakLabel=E53935" />
+  <img
+    width="75%"
+    src="https://streak-stats.demolab.com?user=Jesuusl&theme=dark&hide_border=true&background=0D1117&ring=E53935&fire=E53935&currStreakLabel=E53935"
+    alt="GitHub Streak"
+  />
 
 </div>
-
-<br/>
 
 ## 05 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jesuusl&bg_color=0D1117&color=C9C9C9&line=E53935&point=FFFFFF&area=true&hide_border=true" />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/Jesuusl/jesuusl/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake Animation"
+  />
 
 </div>
-
-<br/>
 
 ## 06 / CURRENTLY
 
