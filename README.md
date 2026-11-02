@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src=".banner.png" width="100%" alt="Jesus Lopez - Full Stack Developer"/>
+  <img src="banner.png" width="100%" alt="Jesus Lopez - Full Stack Developer"/>
 
   <br/>
 
