@@ -10,7 +10,7 @@
 
   <br/>
 
-  <h3>Systems Engineering Student | Full Stack Developer | JavaScript • React • Node.js/h3>
+  <h3>Systems Engineering Student | Full Stack Developer | JavaScript • React • Node.js</h3>
 
   <p>
     Construyendo soluciones digitales con código, creatividad y propósito.
