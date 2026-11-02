@@ -1,49 +1,63 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=500&height=40&duration=3000&lines=%24+whoami;Jesus_Lopez+%E2%80%94+desarrollador%2Fa;%24+cat+passion.txt;Construyo+cosas+que+funcionan+bien" alt="typing" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1033,100:2d1b69&height=120&section=header&text=PLAYER%201&fontSize=42&fontColor=ff4fd8&animation=twinkling&fontAlignY=50" alt="player 1" />
 </p>
 
-```bash
-~ $ whoami
-Jesus_Lopez
-
-~ $ cat about.txt
-rol         : Desarrollador/a TU_ESPECIALIDAD
-ubicacion   : Montería, Colombia
-trabajando  : Hera Saas
-aprendiendo : Linux
-pregúntame  : JS, Node.js
-
-~ $ ls stack/
-python/  javascript/  typescript/  react/  node/  postgres/  git/
-
-~ $ cat contact.json
-{
-  "email":    "jesuspersonal11@outlook.com",
-  "linkedin": "https://linkedin.com/in/jesus-lopez-72a2a3289",
-  "web":      "..."
-}
-
-~ $ git log --oneline -3
-a1b2c3d  feat: aprender algo nuevo cada día
-e4f5g6h  fix: demasiado café
-i7j8k9l  chore: seguir construyendo
-```
-
-```bash
-~ $ gh stats --user TU_USUARIO
-```
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jesuuusl-bit&show_icons=true&hide_border=true&bg_color=00000000&title_color=3fb950&icon_color=3fb950&text_color=8b949e" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuuusl-bit&layout=compact&hide_border=true&bg_color=00000000&title_color=3fb950&text_color=8b949e" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&height=40&lines=PRESS+START;Jesus_Lopez+-+DEV;INSERT+COIN+TO+CONTINUE" alt="typing" />
 </p>
 
-```bash
-~ $ echo "gracias por pasar" && exit
+```text
+╔══════════════════════════════════════╗
+║  JUGADOR : Jesus Lopez               ║
+║  CLASE   : Desarrollador             ║
+║  MAPA    : Montería, Colombia        ║
+║  MISIÓN  : TU_PROYECTO               ║
+╚══════════════════════════════════════╝
 ```
 
+### ▓ STATS
+
+```text
+LOGIC    [██████████░░]  85%
+CREATIVE [█████████░░░]  75%
+COFFEE   [████████████] 100%
+SLEEP    [███░░░░░░░░░]  25%
+```
+
+### ▓ INVENTARIO
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1a1033?style=for-the-badge&logo=python&logoColor=ff4fd8" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1033?style=for-the-badge&logo=javascript&logoColor=ffe14d" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1033?style=for-the-badge&logo=typescript&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/React-1a1033?style=for-the-badge&logo=react&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Node.js-1a1033?style=for-the-badge&logo=nodedotjs&logoColor=ff4fd8" />
+  <img src="https://img.shields.io/badge/Git-1a1033?style=for-the-badge&logo=git&logoColor=ffe14d" />
+</p>
+
+### ▓ MISIONES ACTIVAS
+
+```text
+[★] Hera Saas ........ en progreso
+[★] Clinica ........ en progreso
+[ ] Linux ........ aprendiendo
+```
+
+### ▓ HIGH SCORE
+
 <p align="center">
-  <a href="https://linkedin.com/in/jesus-lopez-72a2a3289"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=3fb950" /></a>
-  <a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=3fb950" /></a>
-  <a href="https://tusitio.com"><img src="https://img.shields.io/badge/web-0d1117?style=flat-square&logo=safari&logoColor=3fb950" /></a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff4fd8&icon_color=00f0ff&text_color=8b8fb3" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=ff4fd8&text_color=8b8fb3" />
+</p>
+
+### ▓ MULTIJUGADOR
+
+<p>
+  <a href="https://linkedin.com/in/jesus-lopez-72a2a3289"><img src="https://img.shields.io/badge/LINKEDIN-1a1033?style=for-the-badge&logo=linkedin&logoColor=00f0ff" /></a>
+  <a href="mailto:jesuspersonal11@outlook.com"><img src="https://img.shields.io/badge/EMAIL-1a1033?style=for-the-badge&logo=gmail&logoColor=ff4fd8" /></a>
+  <a href="https://coomingsoon"><img src="https://img.shields.io/badge/WEB-1a1033?style=for-the-badge&logo=safari&logoColor=ffe14d" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1b69,100:1a1033&height=60&section=footer&text=GAME%20ON&fontSize=16&fontColor=00f0ff" alt="game on" />
 </p>
