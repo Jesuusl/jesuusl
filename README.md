@@ -13,7 +13,7 @@
   <h3>Systems Engineering Student | Full Stack Developer | JavaScript • React • Node.js</h3>
 
   <p>
-    Construyendo soluciones digitales con código, creatividad y propósito.
+    Building digital solutions with code, creativity, and purpose.
   </p>
 
   <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-E53935?style=flat-square&labelColor=111111"/>
@@ -33,19 +33,18 @@ FOCUS      Full Stack Development
 MINDSET    Learn · Build · Improve
 ```
 
-Soy estudiante de Ingeniería de Sistemas y desarrollador en
-constante aprendizaje. Me interesa el desarrollo de software,
-la arquitectura de aplicaciones y la creación de herramientas
-tecnológicas que resuelvan problemas reales.
+I am a Systems Engineering student and a developer who is constantly learning.
+I am interested in software development, application architecture,
+and the creation of technological tools that address real-world problems.
 
-Actualmente enfoco mi aprendizaje en el ecosistema JavaScript,
-el desarrollo web y la construcción de aplicaciones escalables.
+Currently, I am focusing my learning on the JavaScript ecosystem,
+web development, and building scalable applications.
 
-- Desarrollo frontend y backend.
-- Diseño de interfaces modernas y funcionales.
-- Construcción de APIs REST.
-- Gestión de bases de datos.
-- Exploración de Linux y herramientas de desarrollo.
+- Frontend and backend development.
+- Design of modern and functional interfaces.
+- Building REST APIs.
+- Database management.
+- Exploration of Linux and development tools.
 
 <br/>
 
@@ -79,12 +78,12 @@ el desarrollo web y la construcción de aplicaciones escalables.
 
 ### 01. SaludPlus
 
-Sistema integral de gestión clínica.
+Comprehensive clinical management system.
 
-- Gestión de pacientes y citas.
-- Historias clínicas y seguimiento.
-- Módulos administrativos y médicos.
-- API REST y pruebas automatizadas.
+- Patient and appointment management.
+- Medical records and follow-up.
+- Administrative and medical modules.
+- REST API and automated testing.
 
 **Stack:** React · Node.js · SQLite
 
@@ -95,11 +94,11 @@ Sistema integral de gestión clínica.
 
 ### 02. Restaurante Bar SaaS
 
-Sistema de gestión para restaurantes y bares.
+Management system for restaurants and bars.
 
-- Interfaz de gestión.
-- Organización de procesos del restaurante.
-- Aplicación web desplegada.
+- Management interface.
+- Organization of restaurant processes.
+- Deployed web application.
 
 **Stack:** JavaScript · Web Development
 
